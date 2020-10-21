@@ -25,7 +25,7 @@ class ParsedownExtraPlus extends ParsedownExtra
 
     public $blockPreClassHighlight = 'prettyprint';
 
-    const version = '0.0.0-beta-2';
+    const version = '0.0.1';
 
     public function __construct()
     {
